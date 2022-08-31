@@ -11,8 +11,8 @@ input,
 textarea {
   font-family: "Poppins", sans-serif;
 }
-
-.container {
+  
+  .container {
   position: relative;
   width: 100%;
   min-height: 100vh;
@@ -37,7 +37,7 @@ textarea {
     width: 100%;
   }
 }
-@media only screen and (min-width: 1440px) {
+@media only screen and (min-width: 1000px) {
   /* styles for browsers larger than 1440px; */
   .form {
     display: flex;
